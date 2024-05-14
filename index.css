@@ -1,0 +1,21 @@
+.bg-container{
+    background-color: #D3D3D3;
+    background-size: cover;
+    height:100vh;
+    border-radius:20px;
+    padding:10px;
+}
+.heading{
+    font-size:40px;
+    font-weight:bold;
+    text-align: center;
+    font-family: 'Roboto';
+    color:black;
+    padding:10px;
+
+}
+.image-size{
+    height:200px;
+    width:200px;
+    padding:20px;
+}
